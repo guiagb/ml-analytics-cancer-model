@@ -68,16 +68,4 @@ O projeto compara o desempenho de vários modelos de aprendizado de máquina no 
 - **Acurácia**: >95% nos conjuntos de treinamento e teste.
 - **AUC-ROC**: Alta separação entre classes, indicando excelente poder preditivo.
 
-## Melhorias Futuras
-- Adicionar mais dados para melhorar a generalização do modelo.
-- Testar modelos mais avançados, como XGBoost ou LightGBM.
-- Validar o modelo em conjuntos de dados externos.
-- Implementar o modelo como uma aplicação web para uso no mundo real.
-
-## Licença
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Agradecimentos
-- Agradecimentos ao fornecedor do conjunto de dados por possibilitar este projeto.
-- Inspirado pela necessidade de melhorar o diagnóstico precoce e o tratamento do câncer de mama.
 
